@@ -8,7 +8,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 ---
 
-## ✨ Features
+## Features
 
 - **Randomized Questions**: Enjoy a shuffled set of trivia questions each time you play.
 - **Multiple Choice Answers**: Pick the correct answer from four options.
@@ -17,13 +17,13 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.7 or higher installed on your system.
 
 ---
 
-## ▶️ How to Play
+## How to Play
 
 1. **Clone the repository**:
    ```bash
@@ -44,7 +44,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 ---
 
-## 💻 Example Output
+## Example Output
 
 ```plaintext
 Welcome to the Technoblade Trivia Quiz!
@@ -56,7 +56,7 @@ B) Potato Farmer
 C) Teacher
 D) Engineer
 Your answer (A, B, C, or D): B
-✅ Correct!
+Correct!
 
 Question 2: According to Technoblade, what is the natural enemy of a potato farmer?
 A) Zombies
@@ -64,15 +64,15 @@ B) Government
 C) The villagers itself
 D) Creepers
 Your answer (A, B, C, or D): C
-❌ Wrong! The correct answer is: B
+Wrong! The correct answer is: B
 
 Your final score is 1/2.
-👍🏽 Good job! You know a lot about Technoblade!
+Good job! You know a lot about Technoblade!
 ```
 
 ---
 
-## 🛠️ File Structure
+## File Structure
 
 ```plaintext
 ├── technoblade_quiz.py   # Main Python script for the trivia game
@@ -80,7 +80,7 @@ Your final score is 1/2.
 
 ---
 
-## 🔮 Future Features
+## Future Features
 
 - **Leaderboard**: Track high scores to compete with friends.
 - **Dynamic Question Bank**: Add more questions easily using an external JSON file.
@@ -88,7 +88,7 @@ Your final score is 1/2.
 
 ---
 
-## 🫱🏽‍🫲🏼 Contributing
+## Contributing
 
 Contributions are welcome! Follow these steps to contribute:
 1. Fork the repository and create a new branch.
@@ -97,13 +97,13 @@ Contributions are welcome! Follow these steps to contribute:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [Apache-2.0 license](LICENSE).
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Created by [E D W I N](https://github.com/edwingeorgeshaji).
 
