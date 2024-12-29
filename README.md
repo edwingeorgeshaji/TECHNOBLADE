@@ -114,6 +114,6 @@ Created by [E D W I N](https://github.com/edwingeorgeshaji).
 </p>
 
 <div align="center">
-🌟 *Technoblade never dies!* 🌟
+🌟 <em>Technoblade never dies!</em> 🌟
 </div>
 
