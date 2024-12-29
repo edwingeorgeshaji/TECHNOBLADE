@@ -27,7 +27,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/technoblade-trivia-quiz.git
+   git clone https://github.com/edwingeorgeshaji/TECHNOBLADE/technoblade-trivia-quiz.git
    ```
 
 2. **Navigate to the project directory**:
