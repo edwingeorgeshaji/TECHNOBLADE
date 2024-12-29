@@ -67,7 +67,7 @@ Your answer (A, B, C, or D): C
 ❌ Wrong! The correct answer is: B
 
 Your final score is 1/2.
-👍 Good job! You know a lot about Technoblade!
+👍🏽 Good job! You know a lot about Technoblade!
 ```
 
 ---
@@ -88,7 +88,7 @@ Your final score is 1/2.
 
 ---
 
-## 🤝 Contributing
+## 🫱🏽‍🫲🏼 Contributing
 
 Contributions are welcome! Follow these steps to contribute:
 1. Fork the repository and create a new branch.
