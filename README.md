@@ -99,13 +99,15 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache-2.0 license](LICENSE).
 
 ---
 
 ## 👨‍💻 Author
 
-Created by [Your Name](https://github.com/your-username).
+Created by [E D W I N](https://github.com/edwingeorgeshaji).
+
+---
 
 🌟 *Technoblade never dies!* 🌟
 
