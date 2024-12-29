@@ -1,8 +1,8 @@
-# Technoblade Trivia Quiz 🎮
+# Technoblade Trivia Quiz 🎮🐷
 
 ![TECHNOBLADE banner](https://github.com/user-attachments/assets/72310322-8546-4219-9077-1f85f76db956)
 
-## 🐷 Introduction
+## Introduction
 
 The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the incredible legacy of Technoblade. Test your knowledge about Technoblade’s achievements, funny moments, and iconic quotes in this engaging quiz game!
 
