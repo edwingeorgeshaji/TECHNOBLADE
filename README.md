@@ -105,7 +105,7 @@ This project is licensed under the [Apache-2.0 license](LICENSE).
 
 ## Author
 
-Created by [E D W I N](https://github.com/edwingeorgeshaji).
+Created by [R.E.C](https://github.com/edwingeorgeshaji).
 
 ---
 
