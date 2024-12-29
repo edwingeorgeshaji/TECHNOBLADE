@@ -108,6 +108,11 @@ This project is licensed under the [Apache-2.0 license](LICENSE).
 Created by [E D W I N](https://github.com/edwingeorgeshaji).
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b1ad507-37f0-420d-b8cd-c049b1e36488" alt="Pig Techno" />
+</p>
+
 <p> align="center" <a>![pig techno](https://github.com/user-attachments/assets/8b1ad507-37f0-420d-b8cd-c049b1e36488)
 </a></p>
 🌟 *Technoblade never dies!* 🌟
