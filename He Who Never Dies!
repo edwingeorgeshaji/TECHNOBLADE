@@ -18,14 +18,14 @@ questions = [
         "answer": "A"
     },
     {
-        "question": "What excuse did Technoblade jokingly give for losing a Minecraft duel?",
+        "question": "What did Technoblade call his collection of oddly specific phobias?",
         "options": ["A) My Wi-Fi is lagging.", "B) My elbows are weak from farming potatoes.", "C) My mouse is broken.", "D) I wasn’t trying!"],
         "answer": "B"
     },
     {
         "question": "In his Hypixel Skyblock series, what did Technoblade spend countless hours doing?",
-        "options": ["A) Fighting dragons", "B) Mining diamonds", "C) Farming potatoes", "D) Feeding pigs"],
-        "answer": "C"
+        "options": ["A) The Techno-Phobias", "B) The Piglin Pox", "C) The Blood God's Blessings", "D) The Ender Dragon's Curse"],
+        "answer": "B"
     },
     {
         "question": "What did Technoblade name his potato farm in Skyblock?",
