@@ -19,13 +19,13 @@ questions = [
     },
     {
         "question": "What did Technoblade call his collection of oddly specific phobias?",
-        "options": ["A) My Wi-Fi is lagging.", "B) My elbows are weak from farming potatoes.", "C) My mouse is broken.", "D) I wasn’t trying!"],
+        "options": ["A) The Techno-Phobias", "B) The Piglin Pox", "C) The Blood God's Blessings", "D) The Ender Dragon's Curse"],
         "answer": "B"
     },
     {
         "question": "In his Hypixel Skyblock series, what did Technoblade spend countless hours doing?",
-        "options": ["A) The Techno-Phobias", "B) The Piglin Pox", "C) The Blood God's Blessings", "D) The Ender Dragon's Curse"],
-        "answer": "B"
+        "options": ["A) Fighting dragons", "B) Mining diamonds", "C) Farming potatoes", "D) Feeding pigs"],
+        "answer": "C"
     },
     {
         "question": "What did Technoblade name his potato farm in Skyblock?",
@@ -89,7 +89,7 @@ questions = [
     },
     {
         "question": "What humorous excuse did Technoblade give for losing a duel?",
-        "options": ["A) My elbows are weak from farming potatoes.", "B) My ping is too high!", "C) I’m tired from PvPing all night.", "D) It’s the lag!"],
+        "options": ["A) My elbows are weak from farming potatoes.", "B) My ping is too high!", "C) I’m tired from PvPing all night.", "D) I wasn’t trying!"],
         "answer": "A"
     },
     {
