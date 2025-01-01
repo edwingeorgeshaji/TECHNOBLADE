@@ -1,6 +1,6 @@
 # Technoblade Trivia Quiz
 
-![TECHNOBLADE banner pic](https://github.com/user-attachments/assets/72310322-8546-4219-9077-1f85f76db956)
+![TECHNOBLADE banner](https://github.com/user-attachments/assets/72310322-8546-4219-9077-1f85f76db956)
 
 ## Introduction
 
