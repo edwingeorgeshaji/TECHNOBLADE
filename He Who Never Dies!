@@ -96,7 +96,7 @@ questions = [
         "question": "What year did Technoblade win the Minecraft Monday tournament for the first time?",
         "options": ["A) 2018", "B) 2019", "C) 2020", "D) 2021"],
         "answer": "B"
-    }
+    },
     {
         "question": " What was Technoblade’s original YouTube channel name?",
         "options": ["A) ThePigKing", "B) PigsInSpace", "C) Techno", "D) BladeRunner"],
