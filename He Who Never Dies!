@@ -89,7 +89,7 @@ questions = [
     },
     {
         "question": "What humorous excuse did Technoblade give for losing a duel?",
-        "options": ["A) My elbows are weak from farming potatoes.", "B) My ping is too high!", "C) I’m tired from PvPing all night.", "D) I wasn’t trying!"],
+        "options": ["A) My elbows are weak from farming potatoes", "B) My ping is too high!", "C) I’m tired from PvPing all night", "D) I wasn’t trying!"],
         "answer": "A"
     },
     {
@@ -119,7 +119,7 @@ for i, q in enumerate(questions, 1):
     print(f"Question {i}: {q['question']}")
     for option in q['options']:
         print(option)
-    user_answer = input("Your answer (A, B, C, or D): ").strip().upper()
+    user_answer = input("Your answer (A, B, C or D): ").strip().upper()
     if user_answer == q['answer']:
         print("✅ Correct!\n")
         score += 1
