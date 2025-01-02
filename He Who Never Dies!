@@ -4,7 +4,7 @@ import random
 questions = [
     {
         "question": "What did Technoblade always claim to be his real-life profession?",
-        "options": ["A) Singer", "B) Potato Farmer", "C) Teacher", "D) Engineer"],
+        "options": ["A) The president", "B) A potato farmer", "C) A skydiver", "D) A chef"],
         "answer": "B"
     },
     {
@@ -97,6 +97,11 @@ questions = [
         "options": ["A) 2018", "B) 2019", "C) 2020", "D) 2021"],
         "answer": "B"
     }
+    {
+        "question": " What was Technoblade’s original YouTube channel name?",
+        "options": ["A) ThePigKing", "B) PigsInSpace", "C) Techno", "D) BladeRunner"],
+        "answer": "A"
+    },
 ]
 
 
