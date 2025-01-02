@@ -101,7 +101,7 @@ questions = [
         "question": " What was Technoblade’s original YouTube channel name?",
         "options": ["A) ThePigKing", "B) PigsInSpace", "C) Techno", "D) BladeRunner"],
         "answer": "A"
-    },
+    }
 ]
 
 
