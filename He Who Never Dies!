@@ -89,7 +89,7 @@ questions = [
     },
     {
         "question": "What humorous excuse did Technoblade give for losing a duel?",
-        "options": ["A) My elbows are weak from farming potatoes", "B) My ping is too high!", "C) I’m tired from PvPing all night", "D) I wasn’t trying!"],
+        "options": ["A) My elbows are weak from farming potatoes.", "B) My ping is too high!", "C) I’m tired from PvPing all night.", "D) I wasn’t trying!"],
         "answer": "A"
     },
     {
