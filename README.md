@@ -105,7 +105,7 @@ This project is licensed under the [Apache-2.0 license](LICENSE).
 
 ## Author
 
-Created by <strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong>  (ifykyk). Feel free to reach out for any questions or suggestions tto!
+Created by <strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong>  <i>(ifykyk).</i> Feel free to reach out for any questions or suggestions tto!
 
 ---
 
