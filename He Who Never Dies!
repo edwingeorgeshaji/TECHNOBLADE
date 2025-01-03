@@ -1,4 +1,4 @@
-import random
+import random as chees
 
 
 questions = [
@@ -109,7 +109,7 @@ print("Welcome to the Technoblade Trivia Quiz!")
 print("Pick the correct option (A, B, C or D) to score points. Good luck!\n")
 
 
-random.shuffle(questions)
+chees.shuffle(questions)
 
 
 score = 0
