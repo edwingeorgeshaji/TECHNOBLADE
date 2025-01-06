@@ -10,7 +10,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 ## Features
 
-- **Randomized Questions**: Enjoy a shuffled set of trivia questions each time you play.
+- **Randomized Questions**: Enjoy a shuffled set of trivia questions each time you play
 - **Multiple Choice Answers**: Pick the correct answer from four options.
 - **Score Tracking**: Keep track of your correct answers with real-time feedback.
 - **Celebratory Messages**: Get personalized results based on your score.
