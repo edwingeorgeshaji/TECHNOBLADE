@@ -48,7 +48,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 
 <details>
-  <summary>Human readable code</summary>
+  <summary>Just an example!</summary>
    
 ```plaintext
 Welcome to the Technoblade Trivia Quiz!
@@ -74,6 +74,7 @@ Your final score is 1/2.
 Good job! You know a lot about Technoblade!
 ```
 </details>
+
 ---
 
 ## File Structure
