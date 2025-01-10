@@ -46,6 +46,10 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 ## Example Output
 
+
+<details>
+  <summary>Human readable code</summary>
+   
 ```plaintext
 Welcome to the Technoblade Trivia Quiz!
 Pick the correct option (A, B, C, or D) to score points. Good luck!
