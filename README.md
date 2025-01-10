@@ -73,7 +73,7 @@ Wrong! The correct answer is: B
 Your final score is 1/2.
 Good job! You know a lot about Technoblade!
 ```
-
+</details>
 ---
 
 ## File Structure
