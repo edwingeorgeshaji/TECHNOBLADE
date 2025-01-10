@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the incredible legacy of Technoblade. Test your knowledge about Technoblade’s achievements, funny moments, and iconic quotes in this engaging quiz game!
+The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the incredible legacy of Technoblade. Test your knowledge about Technoblade’s achievements, funny moments, and iconic quotes in this engaging quiz game
 
 ---
 
