@@ -32,7 +32,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 2. **Navigate to the project directory**:
    ```bash
-   cd He-Who-Never-Dies!
+   cd He-Who-Never-Dies
    ```
 
 3. **Run the quiz game**:
