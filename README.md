@@ -37,7 +37,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 3. **Run the quiz game**:
    ```bash
-   python technoblade_quiz.py
+   python HeWhoNeverDies.py
    ```
 
 4. Answer the questions by typing the correct option (A, B, C, or D) and pressing Enter.
