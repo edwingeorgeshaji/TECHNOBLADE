@@ -80,7 +80,7 @@ Good job! You know a lot about Technoblade!
 ## File Structure
 
 ```plaintext
-├── technoblade_quiz.py   # Main Python script for the trivia game
+├── HeWhoNeverDies.py   # Main Python script for the trivia game
 ```
 
 ---
