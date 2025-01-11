@@ -32,6 +32,7 @@ The **Technoblade Trivia Quiz** is a fun, console-based game dedicated to the in
 
 2. **Navigate to the project directory**:
    ```bash
+   cd TECHNOBLADE
    cd Ding
    ```
 
