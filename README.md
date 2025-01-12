@@ -76,7 +76,7 @@ Good job! You know a lot about Technoblade!
 ```
 </details>
 
----
+----
 
 ## File Structure
 
