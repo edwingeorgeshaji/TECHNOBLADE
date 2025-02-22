@@ -136,6 +136,3 @@ else:
     print("📖 Keep learning about the hilarious legacy of Technoblade. You’ll get there!")
 
 print("Thank you for playing! Technoblade never dies!\nCreated by R.E.C (ifykyk).")
-
-
-<em>happy</em>
