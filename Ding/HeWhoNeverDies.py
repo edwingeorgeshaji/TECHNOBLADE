@@ -135,5 +135,7 @@ elif score > len(questions) // 2:
 else:
     print("📖 Keep learning about the hilarious legacy of Technoblade. You’ll get there!")
 
-# End message
 print("Thank you for playing! Technoblade never dies!\nCreated by R.E.C (ifykyk).")
+
+
+<em>happy</em>
